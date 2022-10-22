@@ -11,4 +11,4 @@ const close = document.querySelector(".close")
 
 close.addEventListener("click", () => {
     document.querySelector(".modelBox").style.display = 'none'
-})
+})  
